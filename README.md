@@ -17,3 +17,11 @@
 - 每個人輸入區有累加按鈕
 
 截圖：
+
+淺色模式：
+![LightMainScreen](https://github.com/Lyeuiechang/Split-Bills-Calculator-iOS/blob/main/Screenshot%20Folder/IMG_0490.PNG)
+![LightSettingScreen](https://github.com/Lyeuiechang/Split-Bills-Calculator-iOS/blob/main/Screenshot%20Folder/IMG_0491.PNG)
+
+暗色模式：
+![DarkMainScreen](https://github.com/Lyeuiechang/Split-Bills-Calculator-iOS/blob/main/Screenshot%20Folder/IMG_0488.PNG)
+![DarkSettingScreen](https://github.com/Lyeuiechang/Split-Bills-Calculator-iOS/blob/main/Screenshot%20Folder/IMG_0489.PNG)
